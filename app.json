@@ -9,7 +9,7 @@
     "manager",
     "3"
   ],
-  "repository": "hhttps://github.com/Godnobita/Anniebot",
+  "repository": "https://github.com/GodNobita/anniethebot.git",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables",
